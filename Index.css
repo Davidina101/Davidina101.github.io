@@ -144,7 +144,7 @@ li a:hover, .dropdown:hover .dropbtn {
 	filter: alpha(opacity=60);
 	width: 895px;
 	overflow: hidden;
-	height: 2088px;
+	height: 2092px;
 	margin-bottom: 40px;
 }
 .desc1 {
@@ -247,6 +247,6 @@ a {
 	text-align: center;
 	opacity: 0.8;
 	width: 100%;
-	margin-top: 2089px;
+	margin-top: 2092px;
 	position: absolute;
 }
